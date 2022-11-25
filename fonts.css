@@ -1,0 +1,10 @@
+@font-face{
+    font-family:B-NAZANIN ;
+    src: url(./fonts/B-NAZANIN.TTF);
+}
+*{
+    font-family:  b-nazanin;
+}
+.B-NAZANIN{
+    font-family: b-nazanin;
+}

@@ -1,0 +1,91 @@
+@media(max-width : 900px){
+    .menu-list-items{
+        position: absolute;
+        width: 230px;
+        background-color: #881539;
+        display: block !important;
+        height: 100%;
+        top: 0 ;
+        right: 0px ;
+    }
+    
+    .closebtn{
+        display: block;
+    }
+    .Openmenubtn{ 
+        display: inline;
+    }
+}
+@media (max-width : 930px) {
+    .searchbox{
+        margin-left: 80px;
+    }
+    .post{
+        width: 45%;
+        margin-right: -15px;
+        padding: 10px;
+        margin-left: 15px;
+    }
+    .menu-list-items{
+        display: flex;
+        
+    }
+    .content-2{
+      
+        padding: 10px;
+        display: flex;
+        min-height: 380px;
+        margin-top:670px;
+        margin-right: 220px;
+        width: 800px;
+       
+    }
+}
+@media (max-width : 600px) {
+    .header{
+        display: block;
+        margin-top: -17px;
+    }
+    .searchbox{
+        margin-right: -60px;
+    }
+    .post{
+        width: 100%;
+        display: flex;
+        min-height: 200px;
+        margin: 20px;
+        margin-right: -50px !important ;  
+      }
+    body{
+          margin-right: 0px ;
+          padding: 20px;
+      }
+    .postimage{
+        padding: 10px;
+    }
+    .postimage img{
+        border-radius:7px 7px;
+    }
+    .row-2{
+        padding: 30px;
+    }
+   .content-2{
+        display: flex;
+        min-height: 180px;
+        margin-top: 480px;
+        margin-right: 185px;
+        width: 520px;
+       
+    }
+    .body-about{
+        padding: 5px;
+     }
+    .body-tamas{
+        display: block;
+       
+    }
+    .body-tamas-text{
+        margin: 15px;
+        display: inline;
+    }
+}

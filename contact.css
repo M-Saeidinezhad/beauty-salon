@@ -1,0 +1,38 @@
+body{
+
+max-width: 1398px;
+margin-left: 20px;
+margin-right: -150px;
+}
+.body-tamas{
+margin: auto;
+display: flex;
+margin-right: 250px;
+
+}
+.body-tamas-title{
+    margin:  50px;
+    margin-right: 250px;
+    font-size: 30px;
+    color: #9b1741;
+    font-weight: bolder;
+}
+.body-tamas-text{
+margin-right: 450px;
+margin-top: 50px;
+color: #9b1741; 
+font-size: 20px;
+font-weight: bolder;
+
+}
+.body-tamas-text :hover{
+    color: inherit;
+    cursor: pointer;
+   
+}
+.image-tamas img{
+   margin-top: 10px;
+   margin-left: -400px;
+   width: 400px;
+ 
+}

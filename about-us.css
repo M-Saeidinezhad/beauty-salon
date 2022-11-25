@@ -1,0 +1,39 @@
+
+body{
+    max-width: 1547px;
+}
+.title-about{
+    margin-left: 50px;
+    margin-top: 90px;
+    color:#9b1741 ;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.body-about{
+    margin: 30px;
+    line-height: 50px;
+    font-size: 20px;
+    color: #5d001e;
+    margin-right: 300px;
+    text-align: justify;
+    padding: 30px;
+  
+}
+.body-title{
+    margin-left: 50px;
+    margin-top: 50px;
+    color:#9b1741 ;
+    font-size: 26px;
+    font-weight: bolder;
+    text-align: left;
+}
+.list{
+    padding: 30px;
+    margin: 30px;
+    margin-right: 275px;
+    font-size: 20px;
+    color: #5d001e;
+    display: block;
+    text-align: left;
+    
+}
